@@ -23,7 +23,7 @@ C:\Users\IbrahimDev\Projects> dir /s /b /o:gn
 
 ### Contact Me
 * [Twitter](https://www.linkedin.com/in/andrea-grigoletto/)
-* Discord: IbrahimDev#5841
+* [Discord](https://discord.gg/czapc6C)
 * (Business Only) minidevsofficial@gmail.com
 
 
