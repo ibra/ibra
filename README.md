@@ -9,7 +9,7 @@ C:\Users\IbrahimDev> whoami /info
 *I also do some Webdev and make applications in my free time
 
 
-### Projects :space_invader:
+### Projects
 ```console
 C:\Users\IbrahimDev> cd Projects
 C:\Users\IbrahimDev\Projects>
@@ -18,11 +18,12 @@ C:\Users\IbrahimDev\Projects> dir /s /b /o:gn
 * OneShot.exe - A 2D Top-down Shooter that you can buy on Steam
 ```
 [Itch.Io Page](https://https://minidevs.itch.io/) 
----
 
+---
 ### Contact Me
-* [Twitter](https://www.linkedin.com/in/andrea-grigoletto/)
+* [Twitter](https://twitter.com/minidevz)
 * [Discord](https://discord.gg/czapc6C)
-* (Business Only) minidevsofficial@gmail.com
+* minidevsofficial@gmail.com
+  ^ Business Only Email
 
 
