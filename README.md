@@ -3,10 +3,12 @@
 C:\Users\IbrahimDev> whoami
 Ibrahim Hisham
 C:\Users\IbrahimDev> whoami /info
+
+* 13 Y/o 
+* High School Student and Gamedev, 
+* I also do some Webdev and make applications in my free time
+
 ```
-*13 Y/o 
-*High School Student and Gamedev, 
-*I also do some Webdev and make applications in my free time
 
 
 ### Projects
