@@ -1,3 +1,4 @@
+---
 # Minidevs // // IbrahimDev 
 ```console
 C:\Users\IbrahimDev> whoami
@@ -9,8 +10,7 @@ C:\Users\IbrahimDev> whoami /info
 * I also do some Webdev and make applications in my free time
 
 ```
-
-
+---
 ### Projects
 ```console
 C:\Users\IbrahimDev> cd Projects
