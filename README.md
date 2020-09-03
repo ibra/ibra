@@ -1,16 +1,31 @@
-### Hi there 👋
+# Minidevs // // IbrahimDev 
+```console
+C:\Users\IbrahimDev> whoami
+Ibrahim Hisham
+C:\Users\IbrahimDev> whoami /info
+*13 Y/o 
+*High School Student and Gamedev, 
+*I also do some Webdev and make applications in my free time
+```
 
-<!--
-**minidevz/minidevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects :space_invader:
+```console
+C:\Users\IbrahimDev> cd Projects
+C:\Users\IbrahimDev\Projects>
+C:\Users\IbrahimDev\Projects> dir /s /b /o:gn
+Yourshot.exe - Upcoming Top Down RPG in Development
+OneShot.exe - A 2D Top-down Shooter that you can buy on Steam
+              Access Rest?
+            Yes           No
 
-Here are some ideas to get you started:
+* [Itch.Io Page](https://https://minidevs.itch.io/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+---
+
+### Contact Me
+* [Twitter](https://www.linkedin.com/in/andrea-grigoletto/)
+* Discord: IbrahimDev#5841
+* (Business Only) minidevsofficial@gmail.com
+
+
