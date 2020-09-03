@@ -1,4 +1,4 @@
-# Minidevs // // IbrahimDev 
+# Minidevs // IbrahimDev 
 
 ```console
 C:\Users\IbrahimDev> whoami
