@@ -6,8 +6,8 @@ Ibrahim Hisham
 C:\Users\IbrahimDev> whoami /info
 
 * 13 Y/o 
-* High School Student and Gamedev, 
-* I also do some Webdev and make applications in my free time
+* High School Student  
+* Also an Aspiring Gamedev and Content Creator
 
 ```
 ---
