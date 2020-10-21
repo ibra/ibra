@@ -27,7 +27,7 @@ C:\Users\IbrahimDev\Projects> dir /s /b /o:gn
 ---
 ### Contact Me
 * [Twitter](https://twitter.com/minidevz)
-* [Discord](https://discord.gg/czapc6C)
+* [Discord](https://discord.gg/nCerNRh)
 * minidevsofficial@gmail.com
   ^ Business Only Email
 
