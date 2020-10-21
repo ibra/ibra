@@ -22,13 +22,12 @@ C:\Users\IbrahimDev\Projects> dir /s /b /o:gn
 * OffTheGround.exe - A 3D Walking Simulator about a sentient Elevator. (GMTK 202O)
 * Error403.exe - A short, simple platforming game about rewinding to experience  different moments in a timeline. (Brackeys Jam 2020.2)
 ```
-[Itch.Io Page](https://minidevs.itch.io/) 
+
 
 ---
-### Contact Me
+### Social
 * [Twitter](https://twitter.com/minidevz)
 * [Discord](https://discord.gg/nCerNRh)
-* minidevsofficial@gmail.com
-  ^ Business Only Email
+* [Itch.Io Page](https://minidevs.itch.io/) 
 
 
