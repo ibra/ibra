@@ -31,3 +31,6 @@ C:\Users\IbrahimDev\Projects> dir /s /b /o:gn
 * [Itch.Io Page](https://minidevs.itch.io/) 
 
 
+
+### Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibra&show_icons=true&theme=dracula)
