@@ -29,8 +29,3 @@ C:\Users\IbrahimDev\Projects> dir /s /b /o:gn
 * [Twitter](https://twitter.com/minidevz)
 * [Discord](https://discord.gg/nCerNRh)
 * [Itch.Io Page](https://minidevs.itch.io/) 
-
-
-
-### Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibra&show_icons=true&theme=dracula)
