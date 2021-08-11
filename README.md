@@ -1,8 +1,9 @@
 <img align="left" width=20% height=20% src="https://i.ibb.co/x6cZFyk/11072009254.jpg">
 
-### Hey, Im Ibrahim.
+### Ibrahim | ابراہیم
 
-I'm a 14 year old hobbyist **Indie Game Developer** and an aspiring **Programmer** and **Content Creator**.
+
+I'm a 14 year old hobbyist **Indie Game Developer** and an aspiring **Programmer** and **Content Creator** from Pakistan 🇵🇰.
 
 ![0x6fBcf8c7eA647ad190147fb54A947B4C4f6E9163](https://img.shields.io/badge/eth%20-0x6fBcf8c7eA647ad190147fb54A947B4C4f6E9163-%23434871)
 
