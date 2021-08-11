@@ -1,17 +1,20 @@
-## IbrahimDev // Minidevs
+<img align="left" width=20% height=20% src="https://i.ibb.co/x6cZFyk/11072009254.jpg">
 
-```console
-C:\Users\IbrahimDev> whoami
-Ibrahim Hisham
-C:\Users\IbrahimDev> whoami /info
+### Hey, Im Ibrahim.
 
-* 14 Y/o 
-* High School Student  
-* Also an Aspiring Gamedev and Content Creator
-```
+I'm a 14 year old hobbyist **Indie Game Developer** and an aspiring **Programmer** and **Content Creator**.
 
----
-### Social
-* [Twitter](https://twitter.com/minidevz)
-* [Discord](https://discord.gg/nCerNRh)
-* [Itch.Io Page](https://minidevs.itch.io/) 
+![0x6fBcf8c7eA647ad190147fb54A947B4C4f6E9163](https://img.shields.io/badge/eth%20-0x6fBcf8c7eA647ad190147fb54A947B4C4f6E9163-%23434871)
+
+<br>
+
+I mostly work with **Unity**, but am currently trying out **Rust**.
+
+Here are a few of my projects that are worth mentioning:
+
+- [Ibralogue](https://github.com/ibra/Ibralogue) - A dialogue library for Unity written in **CSharp**.
+- [BotMyst](https://github.com/BotMyst/BotMystRevival) - A general purpose utility bot for Discord in **Javascript**.
+- [Blog](https://github.com/ibra/blog) - A blog website made in Hugo, an *epic* fast web framework written in **Go**.
+<br> 
+
+My main project is [YourShot](https://playyourshot.com), a unique blend between JRPG and Top-Down shooter. I also write [blog posts](https://ibrahim.thedev.id) and sometimes [tweet](https://twitter.com/minidevz) about things.
