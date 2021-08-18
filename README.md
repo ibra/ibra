@@ -9,7 +9,8 @@ I'm a 14 year old hobbyist **Indie Game Developer** and an aspiring **Programmer
 
 <br>
 
-I mostly work with **Unity**, but am currently trying out **Rust**.
+I mostly work with **Unity**, and am currently working on a smol **tower-defense** game.
+
 
 Here are a few of my projects that are worth mentioning:
 
