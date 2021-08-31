@@ -21,7 +21,4 @@ Here are a few of my projects that are worth mentioning:
 <br> 
 
 My main project is [YourShot](https://playyourshot.com), a unique blend between JRPG and Top-Down shooter. I also write [blog posts](https://ibrahim.thedev.id) and sometimes [tweet](https://twitter.com/minidevz) about things.
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)](https://github.com/ibra)
+ibra)
