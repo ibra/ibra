@@ -11,7 +11,7 @@ I'm a 15 year old hobbyist **Indie Game Developer** and an aspiring **Programmer
 
 I mostly work with Unity, Rust and Typescript.
 
-Here are a few projects mine that may be of note:
+Here are a few projects of mine that may be of note:
 
 - [Ibralogue](https://github.com/ibra/Ibralogue) - A dialogue library for Unity written in **CSharp**.
 - [BotMyst](https://github.com/BotMyst/BotMystRevival) - A general purpose utility bot for Discord in **Javascript**.
