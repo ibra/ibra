@@ -15,8 +15,8 @@ Here are a few projects of mine that may be of note:
 
 - [Ibralogue](https://github.com/ibra/Ibralogue) - A dialogue library for Unity written in **CSharp**.
 - [BotMyst](https://github.com/BotMyst/BotMystRevival) - A general purpose utility bot for Discord in **Javascript**.
-- [snippy](https://github.com/ibra/snippy) - a simple command-line tool to shorten your links utilizing the sniplink api written in **Rust**.
-- [blog](https://github.com/ibra/blog) - A blog website made in Hugo, an *epic* fast web framework written in **Go**.
+- [snippy](https://github.com/ibra/snippy) - a simple command-line utility to shorten links written in **Rust**.
+- [blog](https://github.com/ibra/blog) - A personal blog website made with **Hugo**.
 <br> 
 
 My main project is [YourShot](https://playyourshot.com), a unique blend between JRPG and Top-Down shooter. I also write [blog posts](https://ibrahim.thedev.id) and sometimes [tweet](https://twitter.com/minidevz) about things.
