@@ -9,14 +9,14 @@ I'm a 15 year old hobbyist **Indie Game Developer** and an aspiring **Programmer
 
 <br>
 
-I mostly work with Unity, Rust and Typescript.
+I mostly work with C#, Rust and Typescript.
 
 Here are a few projects of mine that may be of note:
 
 - [Ibralogue](https://github.com/ibra/Ibralogue) - A dialogue library for Unity written in **CSharp**.
-- [BotMyst](https://github.com/BotMyst/BotMystRevival) - A general purpose utility bot for Discord in **Javascript**.
 - [snippy](https://github.com/ibra/snippy) - a simple command-line utility to shorten links written in **Rust**.
+- - [BotMyst](https://github.com/BotMyst/BotMystRevival) - A general purpose utility bot for Discord in **TypeScript**.
 - [blog](https://github.com/ibra/blog) - A personal blog website made with **Hugo**.
 <br> 
 
-My main project is [YourShot](https://playyourshot.com), a unique blend between JRPG and Top-Down shooter. I also write [blog posts](https://ibrahim.thedev.id) and sometimes [tweet](https://twitter.com/minidevz) about things.
+I also write [blog posts](https://ibrahim.thedev.id) and sometimes [tweet](https://twitter.com/IbrahDev) about things.
