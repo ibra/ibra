@@ -8,7 +8,7 @@ Here are a few projects of mine that may be of note:
 
 - [Ibralogue](https://github.com/ibra/Ibralogue) - A dialogue library for Unity written in **C#**.
 - [snippy](https://github.com/ibra/snippy) - a simple command-line utility to shorten links written in **Rust**.
-- [BotMyst](https://github.com/BotMyst/BotMystRevival) - A general purpose utility bot for Discord in **TypeScript**.
+- [BotMyst](https://github.com/BotMyst/BotMystRevival) - A general purpose utility bot for Discord written in **TypeScript**.
 - [blog](https://github.com/ibra/blog) - A personal blog website made with the static site generator **Zola**.
 <br> 
 
