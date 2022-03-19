@@ -1,22 +1,15 @@
-<img align="left" width=20% height=20% src="https://i.ibb.co/x6cZFyk/11072009254.jpg">
+<img align="left" width=15% height=15% src="https://i.ibb.co/x6cZFyk/11072009254.jpg">
 
 ### Ibrahim | ابراہیم
 
-
-I'm a 15 year old hobbyist **Indie Game Developer** and an aspiring **Programmer** and **Content Creator** from Pakistan 🇵🇰.
-
-![0x6fBcf8c7eA647ad190147fb54A947B4C4f6E9163](https://img.shields.io/badge/eth%20-0x6fBcf8c7eA647ad190147fb54A947B4C4f6E9163-%23434871)
-
-<br>
-
-I mostly work with C#, Rust and Typescript.
+I'm a 15 year **programmer** and hobbyist **indie game developer**  from Pakistan 🇵🇰. I mostly work with C#, Rust and Typescript.
 
 Here are a few projects of mine that may be of note:
 
-- [Ibralogue](https://github.com/ibra/Ibralogue) - A dialogue library for Unity written in **CSharp**.
+- [Ibralogue](https://github.com/ibra/Ibralogue) - A dialogue library for Unity written in **C#**.
 - [snippy](https://github.com/ibra/snippy) - a simple command-line utility to shorten links written in **Rust**.
 - [BotMyst](https://github.com/BotMyst/BotMystRevival) - A general purpose utility bot for Discord in **TypeScript**.
-- [blog](https://github.com/ibra/blog) - A personal blog website made with **Hugo**.
+- [blog](https://github.com/ibra/blog) - A personal blog website made with the static site generator **Zola**.
 <br> 
 
 I also write [blog posts](https://ibra.github.io) and sometimes [tweet](https://twitter.com/IbrahDev) about things.
