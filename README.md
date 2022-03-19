@@ -19,4 +19,4 @@ Here are a few projects of mine that may be of note:
 - [blog](https://github.com/ibra/blog) - A personal blog website made with **Hugo**.
 <br> 
 
-I also write [blog posts](https://ibrahim.thedev.id) and sometimes [tweet](https://twitter.com/IbrahDev) about things.
+I also write [blog posts](https://ibra.github.io) and sometimes [tweet](https://twitter.com/IbrahDev) about things.
