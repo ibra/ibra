@@ -10,5 +10,5 @@ Here are a few projects of mine that may be of note:
 - [snippy](https://github.com/ibra/snippy) - a command-line utility to shorten links written in **Rust**.
 - [BotMyst](https://github.com/BotMyst/BotMystRevival) - a general purpose utility bot for Discord written in **TypeScript**.
 - [blog](https://github.com/ibra/blog) - my own personal blog website made with the static site generator **Zola**.
-<br>
+
 I also write [blog posts](https://ibra.github.io) and sometimes [tweet](https://twitter.com/IbrahDev) about things.
