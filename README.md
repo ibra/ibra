@@ -7,7 +7,7 @@ Hi. I'm a 15 year old **programmer** and hobbyist **indie game developer**  from
 Here are a few projects of mine that may be of note:
 
 - [Ibralogue](https://github.com/ibra/Ibralogue) - a dialogue library for Unity written in **C#**.
-- [snippy](https://github.com/ibra/snippy) - a command-line utility to shorten links written in **Rust**.
+- [snip](https://github.com/harshhhdev/snip) - the minimalistic yet powerful pastebin which i wrote the backend for in **Rust**.
 - [BotMyst](https://github.com/BotMyst/BotMystRevival) - a general purpose utility bot for Discord written in **TypeScript**.
 - [blog](https://github.com/ibra/blog) - my own personal blog website made with the static site generator **Zola**.
 
