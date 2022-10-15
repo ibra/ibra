@@ -12,5 +12,5 @@ Here are a few projects of mine that may be of note:
 - [blog](https://github.com/ibra/blog) - my own personal blog website made with the static site generator **Zola**.
 
 <p align="center">
-<a href="https://ibra.github.io">website</a> • <a href=https://twitter.com/IbrahDev"">twitter</a> • <a href="https://instagram.com/ibrah.hisham">instagram</a> • <a href="mailto:ibrahim.hisham@proton.me">email</a>
+<a href="https://ibra.github.io">website</a> • <a href=https://patreon.com/ibrahh"">patreon</a> • <a href=https://twitter.com/IbrahDev"">twitter</a> • <a href="https://instagram.com/ibrah.hisham">instagram</a> • <a href="mailto:ibrahim.hisham@proton.me">email</a>
 </p>
