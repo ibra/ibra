@@ -2,7 +2,7 @@
 
 ### Ibrahim | ابراہیم
 
-Hi. I'm a 15 year old **programmer** and hobbyist **indie game developer**  from Pakistan. I mostly work with C#, Rust and Typescript.
+Hi. I'm a 15 year old programmer and hobbyist indie game developer from Pakistan. I mostly work with C#, Rust and Typescript.
 
 Here are a few projects of mine that may be of note:
 
