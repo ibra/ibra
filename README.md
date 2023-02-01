@@ -1,4 +1,4 @@
-<img align="left" width=15% height=15% src="https://i.ibb.co/x6cZFyk/11072009254.jpg">
+<img align="left" width=15% height=15% src="https://raw.githubusercontent.com/ibra/ibra/master/smolIbra.jpg">
 
 ### Ibrahim | ابراہیم
 
