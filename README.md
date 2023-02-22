@@ -2,7 +2,7 @@
 
 ### Ibrahim | ابراہیم
 
-Hi.I'm a programmer and hobbyist indie game developer from Pakistan. I'm currently a highschool student and mostly work with C#, Rust and Typescript.
+Hi. I'm a programmer and hobbyist indie game developer from Pakistan. I'm currently a highschool student and mostly work with C#, Rust and Typescript.
 
 Here are a few projects of mine that may be of note:
 
