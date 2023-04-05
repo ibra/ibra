@@ -11,5 +11,5 @@ Here are a few projects of mine that are worth mentioning:
 - [BotMyst](https://github.com/BotMyst/BotMystRevival) - a general purpose utility bot for Discord written in **TypeScript**.
 
 <p align="center">
-<a href="https://ibra.github.io">website</a> • <a href="https://patreon.com/ibrahh">patreon</a> • <a href=https://twitter.com/IbraExists"">twitter</a> • <a href="https://instagram.com/ibrah.hisham">instagram</a> • <a href="mailto:ibrahim.hisham@proton.me">email</a>
+<a href="https://ibra.github.io">website</a> • <a href="https://patreon.com/ibrahh">patreon</a> • <a href="https://twitter.com/IbraExists">twitter</a> • <a href="https://instagram.com/ibrah.hisham">instagram</a> • <a href="mailto:ibrahim.hisham@proton.me">email</a>
 </p>
