@@ -4,12 +4,6 @@
 
 Hi. I'm a programmer and hobbyist indie game developer from Pakistan. I'm currently a highschool student and mostly work with C#, Rust and Typescript.
 
-Here are a few projects of mine that are worth mentioning:
-
-- [Ibralogue](https://github.com/ibra/Ibralogue) - a dialogue library for Unity written in **C#**.
-- [snip.place](https://github.com/harshhhdev/snip) - the minimalistic yet powerful pastebin which i wrote the backend for in **Rust**.
-- [BotMyst](https://github.com/BotMyst/BotMystRevival) - a general purpose utility bot for Discord written in **TypeScript**.
-
 <p align="center">
 <a href="https://ibra.github.io">website</a> • <a href="https://patreon.com/ibrahh">patreon</a> • <a href="https://twitter.com/IbraExists">twitter</a> • <a href="https://instagram.com/ibrah.hisham">instagram</a> • <a href="mailto:ibrahim.hisham@proton.me">email</a>
 </p>
