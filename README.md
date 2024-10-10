@@ -2,7 +2,7 @@
 
 ### ibrahim hisham | ابراہیم ہشام
 
-hey, im a programmer and hobbyist independent game developer from lahore, pakistan.  
+programmer and hobbyist independent game developer from lahore, pakistan.  
 mostly working w/ Rust, Typescript, and C#.
 
 <p align="center">
