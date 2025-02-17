@@ -1,5 +1,3 @@
-<img align="left" width=15% height=15% src="https://raw.githubusercontent.com/ibra/ibra/master/smolIbra.jpg">
-
 ### ibrahim hisham | ابراہیم ہشام
 
 programmer and hobbyist independent game developer from lahore, pakistan.  
