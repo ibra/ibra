@@ -1,6 +1,6 @@
 ### ibrahim hisham | ابراہیم ہشام
 
-systems, backend engineer and independent game developer from lahore, pakistan.  
+systems, backend, tools engineer and independent game developer from lahore, pakistan.  
 mostly working w/ Rust, Typescript, and C#.
 
 <p align="center">
